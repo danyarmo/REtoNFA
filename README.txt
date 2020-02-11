@@ -1,9 +1,8 @@
 Daniel Yarmolenko
-CS 317
 Project - Regular Expression to Finite Automata
 10/14/2019
 
-Contact: daniel.yarmolenko@wsu.edu
+Contact: daniel.yarmolenko@gmail.com
 
 Synopsis: 
 
