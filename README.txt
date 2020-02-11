@@ -2,7 +2,7 @@ Daniel Yarmolenko
 Project - Regular Expression to Finite Automata
 10/14/2019
 
-Contact: daniel.yarmolenko@gmail.com
+Contact: daniel.yarmolenko@wsu.edu
 
 Synopsis: 
 
